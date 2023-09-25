@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=payal6628&label=Profile%20views&color=0e75b6&style=flat" alt="payal6628" /> </p>
 
+- 🎓 I'm currently a final year student at JSS Academy of Technical, Noida.
 - 👨‍💻 I’m currently learning **React JS**
 
-- ⚡️ Understanding and practicing DSA everyday.
+
+- 📚 Working on my DSA skills.
 
 - 🔎 I'm looking forward to contribute to some open source projects.
 
